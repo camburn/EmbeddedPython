@@ -2,3 +2,5 @@ env
 build
 settings.json
 *.pyc
+__pycache__
+.vscode
